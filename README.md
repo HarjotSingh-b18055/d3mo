@@ -1,6 +1,6 @@
 # Parameter Optimization
 
-- #### **<a href="(https://www.nyan.cat/)"> DON'T CLICK HERE!!! </a>**
+- #### **<a href="https://www.nyan.cat/"> DON'T CLICK HERE!!! </a>**
 - ### Go the last slaid for the assignment
 
 # 14 Dataset Sources for Machine Learning and Deep Learning
