@@ -61,8 +61,8 @@ Tutorial on Pycaret for Regression, Classification and Clustering <a href="https
 
 ## **2. Description**
 <img src="https://user-images.githubusercontent.com/7460892/207003772-ba2061bc-f8fd-4479-ba42-4712328b7085.png" width="80%" height="80%">
+<img src="https://github.com/HarjotSingh-b18055/d3mo/assets/71706539/9a46f124-27e0-41fd-9c4e-8af6862e3405" width="40%" height="20%">
 
-![image](https://github.com/HarjotSingh-b18055/d3mo/assets/71706539/9a46f124-27e0-41fd-9c4e-8af6862e3405)
 
 
 
